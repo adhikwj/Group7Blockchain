@@ -1,4 +1,4 @@
-# Blockchain Document Integrity
+# BlockDoc - Blockchain Document Integrity
 
 A full-stack blockchain-based document integrity app built with React, Node.js, Solidity, and the Sepolia Ethereum testnet.
 
